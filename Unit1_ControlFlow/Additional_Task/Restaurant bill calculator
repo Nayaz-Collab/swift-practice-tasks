@@ -1,0 +1,5 @@
+let itemPrice = 450.0
+let quantity = 3
+
+let subtotal = itemPrice * Double(quantity)
+print("Subtotal:", subtotal)
